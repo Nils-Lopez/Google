@@ -1,0 +1,64 @@
+
+h1 {
+display: inline;
+font-size: 9em;
+}
+a {
+	text-decoration: none;
+}
+#G {
+	color: blue;
+}
+#o {
+	color: red;
+}
+#o2 {
+	color: orange;
+}
+#g2 {
+	color: blue;
+}
+#L {
+	color: green;
+}
+#e {
+	color: red;
+}
+#Google {
+	margin-left: 40%;
+	margin-top: 13%;
+}
+#searchbar {
+	height: 30px;
+	width: 450px;
+	border-radius: 15px;
+	border-color: lightgrey;
+	box-shadow: 0em 0 .9em lightgrey;
+}
+button {
+	margin-left: 48px;
+	height: 30px;
+	width: 150px;
+	background-color: lightgrey;
+	border: none;
+}
+p {
+	margin-left: 100px;
+}
+#Header {
+	margin-left: 85%;
+}
+img {
+	margin-top: 15px;
+	border-radius: 30px;
+}
+footer {
+	margin-top: 17%;
+	background-color: lightgrey;
+	height: 40px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+#pub {
+	
+}
